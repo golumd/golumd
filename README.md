@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @golumd
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning NLP models
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: golumd1@mail.ru
+- 💞️ I’m looking to collaborate on some project connected with classic machine learning modeling and developing in NLP or Computer Vision
+- 📫 How to reach me: golumd1@mail.ru | t.me/Golumd
 
 <!---
 golumd/golumd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
